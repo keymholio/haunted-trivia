@@ -1,0 +1,106 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #121212;
+  color: #fff;
+}
+
+header {
+  background-color: #000;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  border-bottom: 1px solid red;
+  margin-bottom: 2.5rem;
+}
+
+.content {
+  margin: 0 2rem;
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0 0 2rem 0;
+}
+
+.score {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #e57238;
+}
+
+.questions h2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  padding:0;
+  margin-bottom: 0.5rem;
+}
+
+.questions h3.question {
+  margin-top: 0;
+}
+
+.questions ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.questions ul li {
+  padding: 1rem 2rem;
+  background-color: rgb(43, 43, 43);
+  font-weight: 700;
+  border-radius: 3rem;
+  margin-bottom: 1rem;
+}
+
+.questions ul li:hover {
+  background-color: #2b2b2b;
+  cursor: pointer;
+}
+
+.option {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: middle;
+}
+
+.option-label {
+  line-height: 24px;
+}
+
+.questions ul li.option.correct {
+  background-color: green
+}
+
+.option-result {
+  color: white;
+}
+
+.option.wrong {
+  opacity: 0.5;
+}
+
+.option-empty {
+  width: 24px;
+  height: 27px;
+}
+
+.final-results button {
+  background-color: #e57238;
+  font-size: 1rem;
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 4rem;
+  font-weight: 700;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.final-results button:hover {
+  background-color: #fdb38e;
+}

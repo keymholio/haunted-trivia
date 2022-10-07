@@ -1,0 +1,84 @@
+{
+  "trivia": [
+    {
+      "title": "Alice's nightmare",
+      "questions": [
+        {
+          "question": "What is the name of Alice's cat?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Dinah",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "Cheshire",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Muffin",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Bourbon",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "What is the name of the lizard roped in to get Alice out of the White Rabbit's house?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Barney",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Bill",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "Bob",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Barry",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "What is the name of the song that the flowers (and Alice at the end of the song) sing?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Golden Afternoon",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "The Caucus Race",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Alice in Wonderland",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Alice in Wonderland",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

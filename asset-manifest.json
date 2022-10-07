@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff71963d.css",
-    "main.js": "/static/js/main.8e6fd4ce.js",
-    "static/media/cohlogo.png": "/static/media/cohlogo.a43b66d9adc6a539d1e2.png",
-    "index.html": "/index.html",
-    "main.ff71963d.css.map": "/static/css/main.ff71963d.css.map",
-    "main.8e6fd4ce.js.map": "/static/js/main.8e6fd4ce.js.map"
+    "main.css": "/haunted-trivia/static/css/main.ff71963d.css",
+    "main.js": "/haunted-trivia/static/js/main.87df2e1a.js",
+    "static/media/cohlogo.png": "/haunted-trivia/static/media/cohlogo.a43b66d9adc6a539d1e2.png",
+    "index.html": "/haunted-trivia/index.html",
+    "main.ff71963d.css.map": "/haunted-trivia/static/css/main.ff71963d.css.map",
+    "main.87df2e1a.js.map": "/haunted-trivia/static/js/main.87df2e1a.js.map"
   },
   "entrypoints": [
     "static/css/main.ff71963d.css",
-    "static/js/main.8e6fd4ce.js"
+    "static/js/main.87df2e1a.js"
   ]
 }

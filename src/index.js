@@ -6,7 +6,7 @@ import App from './App';
 
 const rootElement = document.getElementById('root');
 render(
-  <BrowserRouter>
+  <BrowserRouter basename="/haunted-trivia">
     <App />
   </BrowserRouter>,
   rootElement,

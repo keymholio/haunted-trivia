@@ -15,9 +15,9 @@ const CustomForm = ({ status, message, onValidated }) => {
       });
   };
 
-  useEffect(() => {
+  /* useEffect(() => {
     if (status === 'success') clearFields();
-  }, []);
+  }, []); */
 
   const clearFields = () => {
     setEmail('');

@@ -27,8 +27,14 @@ function Home() {
       </header>
       <main>
         <h1>Trivia</h1>
+        <Link to="trivia/1" className="nav-link">
+          Cinema of Terror
+        </Link>
         <Link to="trivia/0" className="nav-link">
           Alice's Nightmare
+        </Link>
+        <Link to="trivia/2" className="nav-link">
+          Mangled
         </Link>
       </main>
     </>

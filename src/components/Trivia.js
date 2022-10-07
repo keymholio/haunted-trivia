@@ -61,7 +61,7 @@ function Trivia() {
             <h2>Your Score</h2>
             <h3>
               {score} of {data.trivia[id].questions.length} correct (
-              {(score / data.trivia[id].questions.length) * 100}%)
+              {(score / data.trivia[id].questions.length).toFixed(3) * 100}%)
             </h3>
             <button onClick={() => restartClicked()}>Restart</button>
             <Link to="/" className="return">

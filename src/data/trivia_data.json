@@ -77,6 +77,1017 @@
               "isCorrect": false
             }
           ]
+        },
+        {
+          "question": "Who told Alice that she was only dreaming?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "The Queen",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "The Cheshire Cat",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "The King",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "The Doorknob",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "Who pulled the trick on the queen, causing her to show her underwear to everybody?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Alice",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "The Mad Hatter",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "The King",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "The Cheshire Cat",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "What colour were the roses being painted?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "White",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Yellow",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Red",
+              "isCorrect": true
+            },
+            {
+              "id": 3,
+              "text": "Blue",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "How did Matilda realize that Alice was not paying attention to her history lesson?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Matilda woke Alice up when she heard her snoring",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Alice's leg fell from the tree limb she was sitting on",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "The hat of twigs Alice made fell onto Matilda's lap",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Alice's arm was dangling from the tree limb she was sitting on",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "When did Alice lose the necklace she was wearing?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "During the Bandersnatch attack",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Falling down the hole",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "When she grew",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "The March Hare tore it off her neck",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Where is the White Queen's castle?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Marmoreal",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "Crims",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Salazen Grum",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Tulgey Wood",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "What is the Mad Hatter's name?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Hamish",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Ilosovic",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Tarrant",
+              "isCorrect": true
+            },
+            {
+              "id": 3,
+              "text": "Bayard",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "How did Alice get the eyeball back for the Bandersnatch?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "She grabs it from the dormouse",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "Alice always had it",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "The Twiddles retrieve it for her",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "She had to sneak in the Red Queen's room and take it",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "How did Alice get back up to her family?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "She drank the blood of the Jabberwocky",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Cheshire carried her up",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "She clapped her shoes together",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "It was all a dream, she was never really there in the first place",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "What does Alice think Tweedle-Dee and Tweedle-Dum are?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Caramel candies",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Lint balls",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Peculiar figures",
+              "isCorrect": true
+            },
+            {
+              "id": 3,
+              "text": "Wood",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "What does the Dodo bird say Alice is?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "A bird",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "A monster",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "A fish",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "A purple pumpkin",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "How many days a year can you have an unbirthday party?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "0",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "1",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "364",
+              "isCorrect": true
+            },
+            {
+              "id": 3,
+              "text": "365",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cinema of Terror",
+      "questions": [
+        {
+          "question": "Which of the following horror movies was the first to be nominated for an Oscar?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "The Shining",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "The Exorcist",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Psycho",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Little Shop of Horrors",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Who rides around on a red tricycle?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Chucky",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "Jigsaw",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "It",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Annabelle",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Which colour is Freddy Krueger's sweater?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Blue and Green",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Red and Green",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "Blue and Red",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Black and Red",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "What year was the movie 'Vamp' released?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "1977",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "1986",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "1988",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "1991",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Leatherface is the main antagonist of which movie series?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Evil Dead",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Saw",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Insidious",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "The Texas Chainsaw Massacre",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "What is the name of Laurie's (Jamie Lee Curtis) daughter in the 'Halloween' series?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Christina",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Sidney",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Judith",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Jamie",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "In which movie could you find the chainsaw wielding Ash fighting evil in Medieval times?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Army of Darkness",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "The Evil Dead 2",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "The Evil Dead",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Nights of the Round Table",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Which of the following movie series have made it to outer space?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Friday the 13th",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Critters",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Leprechaun",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "All of the above",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "How was the killer in the first 'Scream' movie able to pull off his plans so easily?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "He used video devices",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "He had help",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "He was magical",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "He studied serial killers",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "In what movie could you find three individuals out in the woods with a video camera, searching for a witch?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "The Blair Witch Project",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "A Nightmare on Elm Street",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Friday the Thirteenth",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Child's Play",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "In 'Psycho' do they ever find the mother's body?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Yes",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "No",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "In George Romero's 'Living Dead' movie series, how can the zombies be 'killed'?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Holy water",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Shot or blow to the brain",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "Broomstick and 2 bowling balls",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "They can't be killed",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Which movie listed below is NOT a real film?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Killer Klowns From Outer Space",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Death Spiral",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "The Lair of the White Worm",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "The Stuff",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "The 2008 horror movie 'Dark Floors' featured which rock band as the monsters in the film?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Gwar",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Lordi",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "Slipknot",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Mushroomhead",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "In the 1983 film 'Cujo', what was Cujo bitten by that gave him rabies?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Another dog that was already infected",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "A bat",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "A rat",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "A raccoon",
+              "isCorrect": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mangled",
+      "questions": [
+        {
+          "question": "How long can the brain survive after the heart stops beating?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "30 seconds to one minute",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Three to seven minutes",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "10 minutes",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "It doesn't survive",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "In what state was the first execution by electrocution?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "New York",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "Texas",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Florida",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Alabama",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Blood is what percentage of total body weight in an adult?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "5%",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "8%",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "20%",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "25%",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "A person having their limbs stretched by ropes, under the control of a torturer who adjusted the tension by means of a crank, was known as what?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "The Rack",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "Torquemada's revenge",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Drawing and quartering",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "The Cage",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Which of the following is small and has a short, stiff blade with a curved point and is used to cut sheet materials? ",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Machete",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Linoleum Knife",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "Boning Knife",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "Paring Knife",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "There are more than 2,000 active serial killers in the US.",
+          "answers": [
+            {
+              "id": 0,
+              "text": "True",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "False",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "The most common killing methods of serial killers are...",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Bombs",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Guns",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Strangulation and shooting",
+              "isCorrect": true
+            },
+            {
+              "id": 3,
+              "text": "Poison",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Dr. Joseph Guillotin was executed by guillotine.",
+          "answers": [
+            {
+              "id": 0,
+              "text": "True",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "False",
+              "isCorrect": true
+            }
+            
+          ]
+        },
+        {
+          "question": "When it was first used, which form of execution involved an axe and a block of wood?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "The garrot",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "The wheel",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "Beheading",
+              "isCorrect": true
+            },
+            {
+              "id": 3,
+              "text": "Pressing",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "The 20th century saw the appearance of some new forms of execution. Which one has been known by many nicknames including 'The Hot Squat' and 'Old Sparky'?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "The electric chair",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "The rack",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "The Scold's bridle",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "The thumbscrew",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "When a person is executed by lethal inject, how many different types of drugs are they given?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "2",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "3",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "4",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "5",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "To be named a 'serial killer', what is the minimum amount of victims over separate events?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "2",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "3",
+              "isCorrect": false
+            },
+            {
+              "id": 2,
+              "text": "4",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "5",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Who murdered and mutilated prostitutes in London in 1888?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "Robert Black",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "Jack The Ripper",
+              "isCorrect": true
+            },
+            {
+              "id": 2,
+              "text": "William Burke",
+              "isCorrect": false
+            },
+            {
+              "id": 3,
+              "text": "George Chapman",
+              "isCorrect": false
+            }
+          ]
+        },
+        {
+          "question": "Ted Bundy murdered 23 people.",
+          "answers": [
+            {
+              "id": 0,
+              "text": "True",
+              "isCorrect": false
+            },
+            {
+              "id": 1,
+              "text": "False",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "question": "The average adult has over a gallon of blood in their body?",
+          "answers": [
+            {
+              "id": 0,
+              "text": "True",
+              "isCorrect": true
+            },
+            {
+              "id": 1,
+              "text": "False",
+              "isCorrect": false
+            }
+          ]
         }
       ]
     }

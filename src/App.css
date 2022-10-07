@@ -50,7 +50,7 @@ h1 {
   list-style: none;
 }
 
-.questions ul li, .nav-link {
+.questions ul li, .questions ul li:active, .nav-link {
   padding: 1rem 2rem;
   background-color: rgb(43, 43, 43);
   font-weight: 700;

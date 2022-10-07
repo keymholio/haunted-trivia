@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff71963d.css",
+    "main.js": "/static/js/main.caba2cac.js",
+    "static/media/cohlogo.png": "/static/media/cohlogo.a43b66d9adc6a539d1e2.png",
+    "index.html": "/index.html",
+    "main.ff71963d.css.map": "/static/css/main.ff71963d.css.map",
+    "main.caba2cac.js.map": "/static/js/main.caba2cac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff71963d.css",
+    "static/js/main.caba2cac.js"
+  ]
+}

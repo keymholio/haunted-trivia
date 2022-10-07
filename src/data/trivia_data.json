@@ -389,12 +389,12 @@
             {
               "id": 0,
               "text": "The Shining",
-              "isCorrect": true
+              "isCorrect": false
             },
             {
               "id": 1,
               "text": "The Exorcist",
-              "isCorrect": false
+              "isCorrect": true
             },
             {
               "id": 2,
